@@ -1,4 +1,4 @@
-# Projet Métaheuristiques — ENSET Master
+# Projet Métaheuristiques — ENSET Master SDIA-1
 ## Conception, implémentation et évaluation comparative de métaheuristiques
 ### Fatima-zahra Massane 
 
@@ -27,7 +27,7 @@ Projet_metaheuristiques/
 │   └── B3_schemas.py                  # Théorème des schèmes, analyse dynamique
 │
 ├── comparaison/
-│   ├── __init__.py
+│   ├── 
 │   ├── tableaux_resultats.py          # Tableau comparatif global + CSV + figures
 │   └── courbes_evolution.py           # Courbes d'évolution comparatives
 │
